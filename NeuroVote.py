@@ -16,7 +16,7 @@ intents.guilds = True
 intents.members = True
 client = discord.Client(intents = intents)
 
-TOKEN = "MTEwNzg3NTQ2Mzk1NjgxMTg2Nw.GbOYO5.FCXc-POosZ0QuGNCQ8tmGU0PcEU2VafuNwpR3c"
+TOKEN = "<TOKEN>"
 
 @bot.event
 async def on_ready():
